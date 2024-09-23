@@ -1,1 +1,3 @@
 Hola soy un fichero :)
+Ahora estoy siendo modificado por la rama segunda.
+Voy a provocar un conflicto.
